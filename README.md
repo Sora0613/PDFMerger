@@ -7,6 +7,7 @@
 #使い方
 tkinterとpypdfが必要になります。
 下記のコマンドでインストールしてください。
+
 `pip install tkinter`
 
 `pip install pypdf`
